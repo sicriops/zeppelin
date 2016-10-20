@@ -59,8 +59,8 @@ or ```zeppelin.notebook.homescreen.hide``` property to hide the new notebook fro
 Restart your Zeppelin server
 
 ```
-./bin/zeppelin-deamon stop
-./bin/zeppelin-deamon start
+./bin/zeppelin-daemon stop
+./bin/zeppelin-daemon start
 ```
 That's it! Open your browser and navigate to Apache Zeppelin and see your customized homepage.
 

@@ -196,7 +196,7 @@ Congratulations, you have successfully installed Apache Zeppelin! Here are two n
    
 ## Apache Zeppelin Configuration
 
-You can configure Apache Zeppelin with either **environment variables** in `conf/zeppelin-env.sh` (`conf\zeppelin-env.cmd` for Windows) or **Java properties** in `conf/zeppelin-site.xml`. If both are defined, then the **environment variables** will take priority.
+You can configure Apache Zeppelin with either **environment variables** in `conf/zeppelin-env.sh` (`conf/zeppelin-env.cmd` for Windows) or **Java properties** in `conf/zeppelin-site.xml`. If both are defined, then the **environment variables** will take priority.
 
 <table class="table-configuration">
   <tr>
