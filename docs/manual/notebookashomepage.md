@@ -69,7 +69,7 @@ That's it! Open your browser and navigate to Apache Zeppelin and see your custom
 If you want to display the list of notebooks on your custom Apache Zeppelin homepage all
 you need to do is use our %angular support.
 
-Add the following code to a paragraph in you home page and run it... walla! you have your notebooks list.
+Add the following code to a paragraph in you homepage and run it... walla! you have your notebooks list.
 
 ```javascript
 println(

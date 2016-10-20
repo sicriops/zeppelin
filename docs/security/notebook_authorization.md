@@ -28,7 +28,7 @@ We assume that there is an **Shiro Authentication** component that associates a 
 If you don't set the authentication components yet, please check [Shiro authentication for Apache Zeppelin](./shiroauthentication.html) first.
 
 ## Authorization Setting
-You can set Zeppelin notebook permissions in each notebooks. Of course only **notebook owners** can change this configuration. 
+You can set Zeppelin notebook permissions in each notebook. Of course only **notebook owners** can change this configuration. 
 Just click **Lock icon** and open the permission setting page in your notebook.
 
 As you can see, each Zeppelin notebooks has 3 entities : 

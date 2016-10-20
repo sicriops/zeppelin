@@ -53,7 +53,7 @@ You'll need to install some prerequisites to build the code. Please check [Build
 ### Run website in development mode
 
 While you're modifying website, you might want to see preview of it. Please check [Run website](https://github.com/apache/zeppelin/blob/master/docs/README.md#run-website) section in [docs/README.md](https://github.com/apache/zeppelin/blob/master/docs/README.md).
-Then you'll be able to access it on [http://localhost:4000](http://localhost:4000) with your web browser.
+Then you'll be able to access on it [http://localhost:4000](http://localhost:4000) with your web browser.
 
 ### Making a Pull Request
 
